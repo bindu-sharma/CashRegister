@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CashRegister</string>
+    <string name="history">History</string>
+    <string name="enter_new_quantity">Enter New Quantity</string>
+</resources>
